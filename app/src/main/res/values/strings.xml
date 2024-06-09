@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JIG-Delivery</string>
+    <string-array name="payment_methods">
+        <item>Dinheiro</item>
+        <item>Pix</item>
+        <item>Cartão</item>
+    </string-array>
 </resources>
